@@ -20,3 +20,6 @@ Introduces students to tools and techniques in systems analysis and design such 
 # Theory Playlist
 
     https://www.youtube.com/playlist?list=PLWEBVLl1ZK5pQj3Alh0SkJpVqXuOIo_h2
+
+# MIH
+    https://www.youtube.com/playlist?list=PL9aZtK5kh5Wd9M-4rxicny-ruVi0dTTf3

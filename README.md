@@ -15,3 +15,8 @@ Introduces students to tools and techniques in systems analysis and design such 
 5. Teach students about managing programming processes and documentation
 
 6. Help students to build a system using proper and modern tools
+
+
+# Theory Playlist
+
+    https://www.youtube.com/playlist?list=PLWEBVLl1ZK5pQj3Alh0SkJpVqXuOIo_h2

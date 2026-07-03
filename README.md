@@ -25,3 +25,6 @@ Introduces students to tools and techniques in systems analysis and design such 
 
 # MIH
     https://www.youtube.com/playlist?list=PL9aZtK5kh5Wd9M-4rxicny-ruVi0dTTf3
+
+# AQU
+    https://youtube.com/playlist?list=PL-e5hRmSNQ_1msBaB5y1HTuUWnUbFVKPG
